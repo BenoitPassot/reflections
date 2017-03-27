@@ -10,32 +10,31 @@ It allows me to progressively build a set of modifications on various files that
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+That's the whole point! Keep adding files to the staging area that relate to the same logical change; and when you're done, commit!
 
 
 
 What are some situations when branches would be helpful in keeping your history
-organized?
+organized? How would branches help?
 
 
-How would branches help?
-
-
-
+If I want to try new features, or new ways to structure my data.
+Or if I want to be working on several parts of the code (e.g. working on a neural network, or working on some front end)
 
 How do the diagrams help you visualize the branch structure?
 
 
-
+They allow to see what branches are attainable or not, and what are the features (through commits) that are shared between various branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+It takes the best of both worlds! That's really neat!
 
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
-
+Well, only pros...
+That's actually quite an awesome dynamic.
 
